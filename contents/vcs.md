@@ -3,14 +3,14 @@
 TFCには三つのApplyのトリガーを使うことができます。
 
 * API Driven
-* CLI Drive
+* CLI Driven
 * VCS Driven
 
-ここではVCS DriveパターンのWebhookでの実行を試してみます。
+ここではVCS DrivenパターンのWebhookでの実行を試してみます。
 
 ## GitHubとTerraform Cloudのセットアップ
 
-ここではTerraform Cloud(以下、TFC)を使ってEnterprise版の機能を使ってみます。Terraform Cloudには機能が限定的な無償版とEnterpriseのライセンスでアクティベートされる有償版があります。このハンズオンでは講師が事前に期限限定でアクティベートしてあります。
+ここではTerraform Cloud(以下、TFC)を使ってEnterprise版の機能を使ってみます。Terraform Cloudには機能が限定的な無償版とEnterpriseのライセンスでアクティベートされる有償版があります。このハンズオンでは講師が事前に期間限定でアクティベートしてあります。
 
 TFCにアクセスし最初のセットアップを行いましょう。
 
