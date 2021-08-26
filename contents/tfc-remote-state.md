@@ -42,7 +42,7 @@ Workspaceは以下のボタンより作成できます。
 
 ![new workspace](../assets/tfc-remote-state/new_workspace.png)
 
-以下の画面で、**CLI Drive Workflow**を選択してください。
+以下の画面で、**CLI-driven workflow**を選択してください。
 
 <kbd>
   <img src="../assets/tfc-remote-state/create-ws-new-ui.png">
@@ -51,7 +51,7 @@ Workspaceは以下のボタンより作成できます。
 ワークスペース名は`hello-tf`とします。
 
 <kbd>
-  <img src="../assets/tfc-remote-state/create-ws-new-ui-2.png">
+  <img src="../assets/tfc-remote-state/create-ws-new-ui-3.png">
 </kbd>
 
 つぎに作成したワークスペースのSettingsメニューから以下の操作を実施して下さい。
