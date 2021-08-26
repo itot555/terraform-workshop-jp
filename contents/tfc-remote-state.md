@@ -58,12 +58,11 @@ Workspaceは以下のボタンより作成できます。
 
 ```
 * Settings > General ナビゲートし、Execution modeをLocalに設定
-* Terraform バージョンを1.0.0に指定
 * Save Settingsを選択して保存
 ```
 
 <kbd>
-  <img src="../assets/tfc-remote-state/execution_mode.png">
+  <img src="../assets/tfc-remote-state/execution_mode-1.png">
 </kbd>
 
 Execution modeを**Local**に設定すると、Terraformの実行はLocal環境で行いますが、作成されるStateファイルはTerraform Cloudに保存されます。
