@@ -86,7 +86,7 @@ Execution modeを**Local**に設定すると、Terraformの実行はLocal環境�
 作成されたTokenはこの画面でしか表示されないので、必ずコピーもしくはDownloadしておいてください。
 
 <kbd>
-  <img src="../assets/tfc-remote-state/generated_token-2.png">
+  <img src="../assets/tfc-remote-state/generated_token-1.png">
 </kbd>
 
 
