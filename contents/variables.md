@@ -13,7 +13,7 @@ Terraformはソフトウェアの性質上、非常に機密性の高いデー�
 
 Variableのストレージは一つのワークスペースに一つ用意されます。またこの他にもステートファイルなど重要なデータは例外なく暗号化され保存されています。
 
-Terraform Enterpriseには二種類に変数がサポートされています。`Terraform Variables`と`Environment Variables`です。
+Terraform Enterpriseには二種類の変数がサポートされています。`Terraform Variables`と`Environment Variables`です。
 
 `Terraform Variables`はTerrafromで扱う変数です。ここでセットされた値は`terraform.tfvars`として扱われます。そのため連携するVCSにもし`terraform.tfvars`がある場合はオーバーライドされます。
 
@@ -312,7 +312,7 @@ $ aws ec2 describe-instances --query "Reservations[].Instances[].{InstanceId:Ins
 `Queue Destroy Plan`を選択し、プランが完了したら`Confirm & Apply`でdestroyを実行してください。
 
 <kbd>
-  <img src="https://github-image-tkaburagi.s3.ap-northeast-1.amazonaws.com/terraform-workshop/var-7.png">
+  <img src="../assets/var-8.png">
 </kbd>
 
 Destroyされていることを確認しましょう。(GCP/Azureの場合はWebブラウザから確認してください。)
