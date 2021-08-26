@@ -77,16 +77,16 @@ Execution modeを**Local**に設定すると、Terraformの実行はLocal環境�
   <img src="../assets/tfc-remote-state/user_setting.png">
 </kbd>
 
-そこから、**Token**メニューから**Generate Token**ボタンでUser Tokenを作成します。DescriptionにはこのTokenについてｒの說明を追加できます。
+そこから、**Token**メニューから**Create an API Token**ボタンでUser Tokenを作成します。DescriptionにはこのTokenについての說明を追加できます。
 
 <kbd>
-  <img src="../assets/tfc-remote-state/generate_token.png">
+  <img src="../assets/tfc-remote-state/generate_token-1.png">
 </kbd>
 
 作成されたTokenはこの画面でしか表示されないので、必ずコピーもしくはDownloadしておいてください。
 
 <kbd>
-  <img src="../assets/tfc-remote-state/generated_token.png">
+  <img src="../assets/tfc-remote-state/generated_token-2.png">
 </kbd>
 
 
