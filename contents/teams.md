@@ -21,12 +21,13 @@ Teamに対する権限はOrganizationレベルとWorkspaceレベルの2段階で
 </kbd>
 
 Teamには以下のような3つの権限をつけることが出来ます。**ここでの権限はOrganizationレベルの権限であり、Workspaceレベルの権限ではありません。**
-- Managed Policies
-- Manage workspaces
-- Manage VCS setting
+- Manage Policies
+- Manage Policy Overrides
+- Manage Workspaces
+- Manage VCS Settings
 
 <kbd>
-  <img src="../assets/teams/organization_access.png">
+  <img src="../assets/teams/organization_access-1.png">
 </kbd>
 
 **Create a New Team**から以下の3つのチームを1つづつ作成します。
